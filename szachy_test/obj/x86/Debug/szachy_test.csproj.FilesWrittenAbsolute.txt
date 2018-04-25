@@ -1,0 +1,5 @@
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/bin/Debug/szachy_test.exe.mdb
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/bin/Debug/szachy_test.exe
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/szachy_test.exe
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/szachy_test.exe.mdb

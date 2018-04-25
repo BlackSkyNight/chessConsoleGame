@@ -1,0 +1,25 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{3795952E-A915-43D8-9231-33A5E3FE93A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="szachy_test/Szachownica.cs">
+    <Files>
+      <File FileName="szachy_test/Szachownica.cs" Line="68" Column="21" />
+      <File FileName="szachy_test/Pole.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Bierka.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Goniec.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Gracz.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Krol.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Krolowa.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Menu.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Pionek.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Program.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Skoczek.cs" Line="1" Column="1" />
+      <File FileName="szachy_test/Wieza.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.szachy__test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

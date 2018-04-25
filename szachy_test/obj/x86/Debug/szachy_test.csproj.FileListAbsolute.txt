@@ -1,0 +1,12 @@
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/bin/Debug/szachy_test.exe
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/bin/Debug/szachy_test.pdb
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/szachy_test.csprojResolveAssemblyReference.cache
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/szachy_test.csproj.CoreCompileInputs.cache
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/szachy_test.exe
+/Users/mateuszmatejczyk/Projects/szachy_test/szachy_test/obj/x86/Debug/szachy_test.pdb
+C:\Users\Mateusz\Desktop\szachy_test\szachy_test\bin\Debug\szachy_test.exe
+C:\Users\Mateusz\Desktop\szachy_test\szachy_test\bin\Debug\szachy_test.pdb
+C:\Users\Mateusz\Desktop\szachy_test\szachy_test\obj\x86\Debug\szachy_test.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\szachy_test\szachy_test\obj\x86\Debug\szachy_test.exe
+C:\Users\Mateusz\Desktop\szachy_test\szachy_test\obj\x86\Debug\szachy_test.pdb
+C:\Users\Mateusz\Desktop\szachy_test\szachy_test\obj\x86\Debug\szachy_test.csprojResolveAssemblyReference.cache
